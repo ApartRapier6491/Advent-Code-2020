@@ -4,7 +4,7 @@ ___
 
 ## How to run
 #### Rust:
-Create a new cargo package then replace the `main.rs` and `Cargo.toml`. Insert `input.txt` in the same directory as `Cargo.toml`, then run the cargo.
+Create a new cargo package then replace the `main.rs` and `Cargo.toml` (if presented, for any dependencies used). Insert `input.txt` in the same directory as `Cargo.toml`, then run the cargo.
 
 #### Python:
 Put `input.txt` in the same directory as `main.py` then execute main.py.
