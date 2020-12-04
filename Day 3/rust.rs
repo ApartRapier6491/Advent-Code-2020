@@ -2,14 +2,13 @@ use std::fs::File;
 use std::io::{BufRead, BufReader};
 
 const TREE: char = '#';
+static FILENAME: &str = "input.txt";
 
 fn get_input() -> Vec<String> {
     let mut area: Vec<String> = Vec::new();
 
-    let filename = "input.txt";
-
     // Open the file in read-only mode (ignoring errors).
-    let file = File::open(filename).unwrap();
+    let file = File::open(FILENAME).unwrap();
     let reader = BufReader::new(file);
 
     // Read the file line by line using the lines() iterator from std::io::BufRead.
