@@ -1,5 +1,5 @@
-# Advent-Code-2020
-My solutions for Advent Code 2020 in Python and Rust. Any feedback is welcome!
+# Advent Code 2020
+My solutions for Advent Code 2020 in Rust and Python. Any feedback is welcome!
 ___
 ### Day 1 [Rust] [Python]
 ___
