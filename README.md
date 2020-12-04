@@ -1,5 +1,5 @@
 # Advent Code 2020
-My solutions for Advent Code 2020 in Rust and Python. Any feedback is welcome!
+My solutions for Advent Code 2020 in Rust and Python. I am fairly experienced in Python but totally new to Rust. My main goal is to be better in Rust. Any feedback is welcome!
 ___
 
 ## How to run
