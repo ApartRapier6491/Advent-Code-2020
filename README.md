@@ -9,13 +9,13 @@ Create a new cargo package named `Rust` then replace the `main.rs` and `Cargo.to
 #### Python:
 Put `input.txt` in the same directory as `main.py` then execute `main.py`.
 ___
-### Day 1 [Rust] [Python]
+### Day 1 [Rust](Day%201/main.rs) [Python]
 ___
-### Day 2 [Rust] [Python]
+### Day 2 [Rust](Day%202/main.rs) [Python]
 ___
-### Day 3 [Rust] [Python]
+### Day 3 [Rust](Day%203/main.rs) [Python]
 ___
-### Day 4 [Rust] [Python]
+### Day 4 [Rust] [Python](Day%204/main.py)
 ___
 ### Day 5 [Rust] [Python]
 ___
