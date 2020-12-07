@@ -17,11 +17,11 @@ ___
 ___
 ### Day 4 [Rust] [Python](Day%204/main.py)
 ___
-### Day 5 [Rust] [Python]
+### Day 5 [Rust] [Python](Day%205/main.py)
 ___
-### Day 6 [Rust] [Python]
+### Day 6 [Rust] [Python](Day%206/main.py)
 ___
-### Day 7 [Rust] [Python]
+### Day 7 [Rust] [Python](Day%207/main.py)
 ___
 ### Day 8 [Rust] [Python]
 ___
