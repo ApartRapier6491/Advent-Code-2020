@@ -23,7 +23,7 @@ ___
 ___
 ### Day 7 [Rust] [Python](Day%207/main.py)
 ___
-### Day 8 [Rust] [Python]
+### Day 8 [Rust] [Python](Day%208/main.py)
 ___
 ### Day 9 [Rust] [Python]
 ___
