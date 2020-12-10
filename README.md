@@ -25,9 +25,9 @@ ___
 ___
 ### Day 8 [Rust] [Python](Day%208/main.py)
 ___
-### Day 9 [Rust] [Python]
+### Day 9 [Rust] [Python](Day%209/main.py)
 ___
-### Day 10 [Rust] [Python]
+### Day 10 [Rust] [Python](Day%2010/main.py)
 ___
 ### Day 11 [Rust] [Python]
 ___
